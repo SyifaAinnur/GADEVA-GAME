@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d30c26833094ce043a55fe99b9de8206, type: 3}
+  m_Name: Achievment3
+  m_EditorClassIdentifier: 
+  indexNumber: 2
+  itemName: Achivement (3)
+  icon: {fileID: 21300000, guid: aeae396e8f6c5ca4f89a823e11be9a96, type: 3}

@@ -1,0 +1,1856 @@
+fileFormatVersion: 2
+guid: 814eda867c3744d4cbeed93979cf88a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1145083951773059285
+    second: gedung_1_0
+  - first:
+      213: 6269303595639074811
+    second: gedung_1_1
+  - first:
+      213: -7587614731082909604
+    second: gedung_1_2
+  - first:
+      213: 2939375224557147461
+    second: gedung_1_3
+  - first:
+      213: -2028915978294324714
+    second: gedung_1_4
+  - first:
+      213: 2001598291080868626
+    second: gedung_1_5
+  - first:
+      213: -1606121587222361573
+    second: gedung_1_6
+  - first:
+      213: -1195363652289268648
+    second: gedung_1_7
+  - first:
+      213: -3453008009400600269
+    second: gedung_1_8
+  - first:
+      213: -6342450918892539843
+    second: gedung_1_9
+  - first:
+      213: 1644497664954876393
+    second: gedung_1_10
+  - first:
+      213: 2974118254601864351
+    second: gedung_1_11
+  - first:
+      213: 1624072768496810444
+    second: gedung_1_12
+  - first:
+      213: -1372537608353421089
+    second: gedung_1_13
+  - first:
+      213: -7084626804734309797
+    second: gedung_1_14
+  - first:
+      213: -6951796205930530430
+    second: gedung_1_15
+  - first:
+      213: -1908269161659212435
+    second: gedung_1_16
+  - first:
+      213: -3914422376499484595
+    second: gedung_1_17
+  - first:
+      213: 1838823640483129067
+    second: gedung_1_18
+  - first:
+      213: 3488415929901461683
+    second: gedung_1_19
+  - first:
+      213: -6407019312636057334
+    second: gedung_1_20
+  - first:
+      213: -2644272859963532842
+    second: gedung_1_21
+  - first:
+      213: 4824858008075082354
+    second: gedung_1_22
+  - first:
+      213: 8653707412828167386
+    second: gedung_1_23
+  - first:
+      213: 1672181397490905434
+    second: gedung_1_24
+  - first:
+      213: -841009085711367476
+    second: gedung_1_25
+  - first:
+      213: -3412364217816918044
+    second: gedung_1_26
+  - first:
+      213: 5778258618288966929
+    second: gedung_1_27
+  - first:
+      213: 6810559887744499143
+    second: gedung_1_28
+  - first:
+      213: 5327840184186654147
+    second: gedung_1_29
+  - first:
+      213: 941645408739602953
+    second: gedung_1_30
+  - first:
+      213: -8027484733257467318
+    second: gedung_1_31
+  - first:
+      213: -6756138502916472392
+    second: gedung_1_32
+  - first:
+      213: -2744289481608480016
+    second: gedung_1_33
+  - first:
+      213: -1355693012985264572
+    second: gedung_1_34
+  - first:
+      213: 8223480953502771195
+    second: gedung_1_35
+  - first:
+      213: 2781371797330665309
+    second: gedung_1_36
+  - first:
+      213: -124379080791729463
+    second: gedung_1_37
+  - first:
+      213: -5340190660667803296
+    second: gedung_1_38
+  - first:
+      213: 5967386515302332249
+    second: gedung_1_39
+  - first:
+      213: -4724577140980272897
+    second: gedung_1_40
+  - first:
+      213: 2987624203515077779
+    second: gedung_1_41
+  - first:
+      213: 696576514452793977
+    second: gedung_1_42
+  - first:
+      213: 8317692849721283106
+    second: gedung_1_43
+  - first:
+      213: 8998903416502175407
+    second: gedung_1_44
+  - first:
+      213: -3443671377125145215
+    second: gedung_1_45
+  - first:
+      213: 8100267656445844041
+    second: gedung_1_46
+  - first:
+      213: -4885816878148113833
+    second: gedung_1_47
+  - first:
+      213: 5930321750103867860
+    second: gedung_1_48
+  - first:
+      213: -5243586169886078438
+    second: gedung_1_49
+  - first:
+      213: 2036919597287682639
+    second: gedung_1_50
+  - first:
+      213: 6753143621046112000
+    second: gedung_1_51
+  - first:
+      213: -5793527401840478425
+    second: gedung_1_52
+  - first:
+      213: -5812920315976351176
+    second: gedung_1_53
+  - first:
+      213: 2288012579864980953
+    second: gedung_1_54
+  - first:
+      213: -5375988956378496245
+    second: gedung_1_55
+  - first:
+      213: 5306994024476391001
+    second: gedung_1_56
+  - first:
+      213: 4593351896023170452
+    second: gedung_1_57
+  - first:
+      213: -490598936272162903
+    second: gedung_1_58
+  - first:
+      213: -4379394475215755739
+    second: gedung_1_59
+  - first:
+      213: -4683764560992142050
+    second: gedung_1_60
+  - first:
+      213: -5518540888686689748
+    second: gedung_1_61
+  - first:
+      213: 7725371502556557205
+    second: gedung_1_62
+  - first:
+      213: -3618019928412043186
+    second: gedung_1_63
+  - first:
+      213: 3994214158181612331
+    second: gedung_1_64
+  - first:
+      213: -1105810342260209575
+    second: gedung_1_65
+  - first:
+      213: 4564368948446717035
+    second: gedung_1_66
+  - first:
+      213: 1981511911476409812
+    second: gedung_1_67
+  - first:
+      213: -6651319297944369911
+    second: gedung_1_68
+  - first:
+      213: 8937408527493714830
+    second: gedung_1_69
+  - first:
+      213: -1328313611048346501
+    second: gedung_1_70
+  - first:
+      213: -1220173175740154967
+    second: gedung_1_71
+  - first:
+      213: -2883744971797872910
+    second: gedung_1_72
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gedung_1_0
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 3040
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d80f6789c724ef00800000000000000
+      internalID: 1145083951773059285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_1
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 3040
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff652f676a010750800000000000000
+      internalID: 6269303595639074811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_2
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3040
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58384d5a9063b690800000000000000
+      internalID: -7587614731082909604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_3
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 3040
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54510597132cac820800000000000000
+      internalID: 2939375224557147461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_4
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 2960
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61217aadaa7d7d3e0800000000000000
+      internalID: -2028915978294324714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_5
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2960
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21377e27a0b17cb10800000000000000
+      internalID: 2001598291080868626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_6
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2960
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a468f0de8e5b9e0800000000000000
+      internalID: -1606121587222361573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_7
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 2960
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85472ef6717396fe0800000000000000
+      internalID: -1195363652289268648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_8
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2960
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3393911a2837410d0800000000000000
+      internalID: -3453008009400600269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_9
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 2880
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d307f063e761bf7a0800000000000000
+      internalID: -6342450918892539843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_10
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2880
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e14891d9ed62d610800000000000000
+      internalID: 1644497664954876393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_11
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2880
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f948c858bc0364920800000000000000
+      internalID: 2974118254601864351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_12
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 2880
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc933a7049dd98610800000000000000
+      internalID: 1624072768496810444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_13
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2880
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8ea353154c3fce0800000000000000
+      internalID: -1372537608353421089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_14
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 2800
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ac99105795ead90800000000000000
+      internalID: -7084626804734309797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_15
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2800
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2893a92de22468f90800000000000000
+      internalID: -6951796205930530430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_16
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2800
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d5873de477485e0800000000000000
+      internalID: -1908269161659212435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_17
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 2800
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4868eb869d2da9c0800000000000000
+      internalID: -3914422376499484595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_18
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2800
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be66697cb50d48910800000000000000
+      internalID: 1838823640483129067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_19
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 2720
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0379a4ec7596030800000000000000
+      internalID: 3488415929901461683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_20
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2720
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09a24981e1b517a0800000000000000
+      internalID: -6407019312636057334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_21
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2720
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9daa408d7ad4bd0800000000000000
+      internalID: -2644272859963532842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_22
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 2720
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a930f8bc655f240800000000000000
+      internalID: 4824858008075082354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_23
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2720
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc99cbea05281870800000000000000
+      internalID: 8653707412828167386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_24
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 2640
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5136751f18c43710800000000000000
+      internalID: 1672181397490905434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_25
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2640
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc24c4141b22454f0800000000000000
+      internalID: -841009085711367476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_26
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2640
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7d4c8c2d8d4a0d0800000000000000
+      internalID: -3412364217816918044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_27
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 2640
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d047b499f703050800000000000000
+      internalID: 5778258618288966929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_28
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2640
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdf88e4228f38e50800000000000000
+      internalID: 6810559887744499143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_29
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 2560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd4f7e5b6a40f940800000000000000
+      internalID: 5327840184186654147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_30
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9023d4c9285611d00800000000000000
+      internalID: 941645408739602953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_31
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a3152aa25a89090800000000000000
+      internalID: -8027484733257467318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_32
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 2560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b10350c3df5d32a0800000000000000
+      internalID: -6756138502916472392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_33
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fab2ef91435ae9d0800000000000000
+      internalID: -2744289481608480016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_34
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 2480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446c880336c9f2de0800000000000000
+      internalID: -1355693012985264572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_35
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf729ba7b5caf1270800000000000000
+      internalID: 8223480953502771195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_36
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f1f20d9ea699620800000000000000
+      internalID: 2781371797330665309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_37
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 2480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca5bef82ed164ef0800000000000000
+      internalID: -124379080791729463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_38
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069790e33e4d3e5b0800000000000000
+      internalID: -5340190660667803296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_39
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 2400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9573d0a4b6a60d250800000000000000
+      internalID: 5967386515302332249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_40
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 2400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0b0f54f1eee6eb0800000000000000
+      internalID: -4724577140980272897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_41
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39420ec426c267920800000000000000
+      internalID: 2987624203515077779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_42
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97aa6d636acbaa900800000000000000
+      internalID: 696576514452793977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_43
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 2400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222917ae3916e6370800000000000000
+      internalID: 8317692849721283106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_44
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa649a4aaf682ec70800000000000000
+      internalID: 8998903416502175407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_45
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 2320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185864bb02f9530d0800000000000000
+      internalID: -3443671377125145215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_46
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 2320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a5a08348ee96070800000000000000
+      internalID: 8100267656445844041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_47
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75aaf5c7f67123cb0800000000000000
+      internalID: -4885816878148113833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_48
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1c6b6263cbc4250800000000000000
+      internalID: 5930321750103867860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_49
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 2320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a0ac2092a0b37b0800000000000000
+      internalID: -5243586169886078438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_50
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f423d58e497944c10800000000000000
+      internalID: 2036919597287682639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_51
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 2320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f06a9f75cf7bd50800000000000000
+      internalID: 6753143621046112000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_52
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 2240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7277ec00681499fa0800000000000000
+      internalID: -5793527401840478425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_53
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 2240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832049255cb545fa0800000000000000
+      internalID: -5812920315976351176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_54
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd2a78a157a0cf10800000000000000
+      internalID: 2288012579864980953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_55
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0303a20786a465b0800000000000000
+      internalID: -5375988956378496245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_56
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 2240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956390692fa36a940800000000000000
+      internalID: 5306994024476391001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_57
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49df3da763ddebf30800000000000000
+      internalID: 4593351896023170452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_58
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 2240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af2054edda0139f0800000000000000
+      internalID: -490598936272162903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_59
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 2160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526e4758de34933c0800000000000000
+      internalID: -4379394475215755739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_60
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 2160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dff7a82fceffeb0800000000000000
+      internalID: -4683764560992142050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_61
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c228c5bdc443a63b0800000000000000
+      internalID: -5518540888686689748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_62
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f2fc76378063b60800000000000000
+      internalID: 7725371502556557205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_63
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 2160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4847b05b063acdc0800000000000000
+      internalID: -3618019928412043186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_64
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b30475d9c4e6730800000000000000
+      internalID: 3994214158181612331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_65
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 2160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95880a04a5f57a0f0800000000000000
+      internalID: -1105810342260209575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_66
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 2080
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b646df32065e75f30800000000000000
+      internalID: 4564368948446717035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_67
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 2080
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5b1c1c59ebf7b10800000000000000
+      internalID: 1981511911476409812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_68
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 2080
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9054356b654c1b3a0800000000000000
+      internalID: -6651319297944369911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_69
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2080
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e835fcd04bd080c70800000000000000
+      internalID: 8937408527493714830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_70
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 2080
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c9527fec1e09de0800000000000000
+      internalID: -1328313611048346501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_71
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2080
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab3c8f16f2111fe0800000000000000
+      internalID: -1220173175740154967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gedung_1_72
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 2080
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe3b251a31eaf7d0800000000000000
+      internalID: -2883744971797872910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

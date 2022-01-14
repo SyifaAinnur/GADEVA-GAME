@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - special
+  - brick
+  - NPC ACHIEVMENT
+  - bottom
+  - paddle
+  - Border
+  - winPlat
+  - Destroyer
+  - Enemy
+  - Bullet
+  - Suriken
+  - HeadBoss
+  - KillBoss
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - SolidObject
+  - Interactable
+  - Player
+  - Portal
+  - BackgroundBelakang
+  - BackgroundDepan
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1053441763
+    locked: 0
+  - name: Foreground
+    uniqueID: 3460512917
+    locked: 0
+  - name: Player
+    uniqueID: 2035432897
+    locked: 0
+  - name: BackgroundBelakang
+    uniqueID: 2130270789
+    locked: 0
+  - name: BackgroundDepan
+    uniqueID: 1940161919
+    locked: 0

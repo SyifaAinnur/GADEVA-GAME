@@ -1,0 +1,3344 @@
+fileFormatVersion: 2
+guid: bf2c228824c0f8b45afd787a3765666a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1594535527727854139
+    second: asset portal Bige size_0
+  - first:
+      213: 7226825245242875800
+    second: asset portal Bige size_1
+  - first:
+      213: -6916546978472985050
+    second: asset portal Bige size_2
+  - first:
+      213: 63964962975484806
+    second: asset portal Bige size_3
+  - first:
+      213: 3992577407883133521
+    second: asset portal Bige size_4
+  - first:
+      213: -1389476622424695249
+    second: asset portal Bige size_5
+  - first:
+      213: -5918358851631911280
+    second: asset portal Bige size_6
+  - first:
+      213: 742047797731355056
+    second: asset portal Bige size_7
+  - first:
+      213: -3540405208182142533
+    second: asset portal Bige size_8
+  - first:
+      213: 5714008539055721833
+    second: asset portal Bige size_9
+  - first:
+      213: 785719343105399125
+    second: asset portal Bige size_10
+  - first:
+      213: -1130511390679169262
+    second: asset portal Bige size_11
+  - first:
+      213: 89457194444580831
+    second: asset portal Bige size_12
+  - first:
+      213: 4116151676893454303
+    second: asset portal Bige size_13
+  - first:
+      213: 2481332488353252400
+    second: asset portal Bige size_14
+  - first:
+      213: 944671311068943952
+    second: asset portal Bige size_15
+  - first:
+      213: -2298626966624326669
+    second: asset portal Bige size_16
+  - first:
+      213: 2089324070935658131
+    second: asset portal Bige size_17
+  - first:
+      213: 3595654487722266012
+    second: asset portal Bige size_18
+  - first:
+      213: 3756670808969356891
+    second: asset portal Bige size_19
+  - first:
+      213: -3259705359828403182
+    second: asset portal Bige size_20
+  - first:
+      213: 5157332623530747597
+    second: asset portal Bige size_21
+  - first:
+      213: 8011235127745661890
+    second: asset portal Bige size_22
+  - first:
+      213: 1171225473899226580
+    second: asset portal Bige size_23
+  - first:
+      213: 8880149805225375067
+    second: asset portal Bige size_24
+  - first:
+      213: -4549895140184549648
+    second: asset portal Bige size_25
+  - first:
+      213: -32005331561647599
+    second: asset portal Bige size_26
+  - first:
+      213: 3112191596097147557
+    second: asset portal Bige size_27
+  - first:
+      213: 5432662020621598431
+    second: asset portal Bige size_28
+  - first:
+      213: -3482574523790719157
+    second: asset portal Bige size_29
+  - first:
+      213: 771390329514856995
+    second: asset portal Bige size_30
+  - first:
+      213: -1313292101841458960
+    second: asset portal Bige size_31
+  - first:
+      213: -853227380228916009
+    second: asset portal Bige size_32
+  - first:
+      213: 3596315036857308047
+    second: asset portal Bige size_33
+  - first:
+      213: -6235185489976309470
+    second: asset portal Bige size_34
+  - first:
+      213: 4819752616456028837
+    second: asset portal Bige size_35
+  - first:
+      213: -6390524357415090732
+    second: asset portal Bige size_36
+  - first:
+      213: -8478928096298748040
+    second: asset portal Bige size_37
+  - first:
+      213: -3971156335926361928
+    second: asset portal Bige size_38
+  - first:
+      213: -491930670867556054
+    second: asset portal Bige size_39
+  - first:
+      213: 3233417297644434723
+    second: asset portal Bige size_40
+  - first:
+      213: -7895063693562277180
+    second: asset portal Bige size_41
+  - first:
+      213: -5072776452505356709
+    second: asset portal Bige size_42
+  - first:
+      213: -7782719749467029596
+    second: asset portal Bige size_43
+  - first:
+      213: -2025826648282316736
+    second: asset portal Bige size_44
+  - first:
+      213: -2903463617408486511
+    second: asset portal Bige size_45
+  - first:
+      213: 7170907272458653900
+    second: asset portal Bige size_46
+  - first:
+      213: 4263129971844872432
+    second: asset portal Bige size_47
+  - first:
+      213: -6153961709140181065
+    second: asset portal Bige size_48
+  - first:
+      213: 8430082335075888874
+    second: asset portal Bige size_49
+  - first:
+      213: -3983252867495493259
+    second: asset portal Bige size_50
+  - first:
+      213: 447108120139127380
+    second: asset portal Bige size_51
+  - first:
+      213: 2507820246446533124
+    second: asset portal Bige size_52
+  - first:
+      213: 7542036868011664519
+    second: asset portal Bige size_53
+  - first:
+      213: 4767690402766959811
+    second: asset portal Bige size_54
+  - first:
+      213: 4972721528348284850
+    second: asset portal Bige size_55
+  - first:
+      213: -6481372917514977088
+    second: asset portal Bige size_56
+  - first:
+      213: 2379467605907304275
+    second: asset portal Bige size_57
+  - first:
+      213: 8891091556234189555
+    second: asset portal Bige size_58
+  - first:
+      213: -3062093923937300592
+    second: asset portal Bige size_59
+  - first:
+      213: -1634911624428192651
+    second: asset portal Bige size_60
+  - first:
+      213: -1236238625139566265
+    second: asset portal Bige size_61
+  - first:
+      213: -5667019069476640492
+    second: asset portal Bige size_62
+  - first:
+      213: -4478174146945616560
+    second: asset portal Bige size_63
+  - first:
+      213: -3767877884628047168
+    second: asset portal Bige size_64
+  - first:
+      213: 512666946287887
+    second: asset portal Bige size_65
+  - first:
+      213: 2504173552959129835
+    second: asset portal Bige size_66
+  - first:
+      213: -5940379351094492546
+    second: asset portal Bige size_67
+  - first:
+      213: 5550932167821942908
+    second: asset portal Bige size_68
+  - first:
+      213: -6811802705798111622
+    second: asset portal Bige size_69
+  - first:
+      213: 9113480516579173289
+    second: asset portal Bige size_70
+  - first:
+      213: -8135659826586178913
+    second: asset portal Bige size_71
+  - first:
+      213: 5648966009309811520
+    second: asset portal Bige size_72
+  - first:
+      213: 8993723273880777457
+    second: asset portal Bige size_73
+  - first:
+      213: -4606283486552749246
+    second: asset portal Bige size_74
+  - first:
+      213: 1233291404954248064
+    second: asset portal Bige size_75
+  - first:
+      213: 1172378151939629890
+    second: asset portal Bige size_76
+  - first:
+      213: 5178521778733695869
+    second: asset portal Bige size_77
+  - first:
+      213: 6053713235542412773
+    second: asset portal Bige size_78
+  - first:
+      213: 4959989870628441482
+    second: asset portal Bige size_79
+  - first:
+      213: -3431703048205258571
+    second: asset portal Bige size_80
+  - first:
+      213: 6633208766305856043
+    second: asset portal Bige size_81
+  - first:
+      213: 2705161233959109593
+    second: asset portal Bige size_82
+  - first:
+      213: 2291695876161848353
+    second: asset portal Bige size_83
+  - first:
+      213: -3809473818905296075
+    second: asset portal Bige size_84
+  - first:
+      213: -6307789110850295662
+    second: asset portal Bige size_85
+  - first:
+      213: -3629959635171833552
+    second: asset portal Bige size_86
+  - first:
+      213: -5968877583639764165
+    second: asset portal Bige size_87
+  - first:
+      213: 407524046892494874
+    second: asset portal Bige size_88
+  - first:
+      213: 7096595162742754112
+    second: asset portal Bige size_89
+  - first:
+      213: 866823105924670904
+    second: asset portal Bige size_90
+  - first:
+      213: -932263037511537301
+    second: asset portal Bige size_91
+  - first:
+      213: -1681047626354134072
+    second: asset portal Bige size_92
+  - first:
+      213: 6669465682246605406
+    second: asset portal Bige size_93
+  - first:
+      213: 2433981664112652910
+    second: asset portal Bige size_94
+  - first:
+      213: 5063874157100089805
+    second: asset portal Bige size_95
+  - first:
+      213: -5938807991848891743
+    second: asset portal Bige size_96
+  - first:
+      213: -8996310691069050887
+    second: asset portal Bige size_97
+  - first:
+      213: 6075904876371325151
+    second: asset portal Bige size_98
+  - first:
+      213: -2207062241249427223
+    second: asset portal Bige size_99
+  - first:
+      213: -6584399433116491690
+    second: asset portal Bige size_100
+  - first:
+      213: 6364218389438228782
+    second: asset portal Bige size_101
+  - first:
+      213: -7192710668680282871
+    second: asset portal Bige size_102
+  - first:
+      213: 5883996220198882593
+    second: asset portal Bige size_103
+  - first:
+      213: -5310833043943303226
+    second: asset portal Bige size_104
+  - first:
+      213: -3938457678788175982
+    second: asset portal Bige size_105
+  - first:
+      213: -8607921789021190692
+    second: asset portal Bige size_106
+  - first:
+      213: -5176889032954095522
+    second: asset portal Bige size_107
+  - first:
+      213: -3646211373395218515
+    second: asset portal Bige size_108
+  - first:
+      213: -4407184539330711566
+    second: asset portal Bige size_109
+  - first:
+      213: -3045793360469008842
+    second: asset portal Bige size_110
+  - first:
+      213: 1154198319768105726
+    second: asset portal Bige size_111
+  - first:
+      213: -6552495329783378944
+    second: asset portal Bige size_112
+  - first:
+      213: -2430212434453864296
+    second: asset portal Bige size_113
+  - first:
+      213: -3557520937121356649
+    second: asset portal Bige size_114
+  - first:
+      213: 558230213151804001
+    second: asset portal Bige size_115
+  - first:
+      213: -7306169108256586059
+    second: asset portal Bige size_116
+  - first:
+      213: -1078099972155166111
+    second: asset portal Bige size_117
+  - first:
+      213: -4687446841622624268
+    second: asset portal Bige size_118
+  - first:
+      213: 3582910906183152367
+    second: asset portal Bige size_119
+  - first:
+      213: -5273208191928266515
+    second: asset portal Bige size_120
+  - first:
+      213: 5518743271723660849
+    second: asset portal Bige size_121
+  - first:
+      213: 2428199094365135311
+    second: asset portal Bige size_122
+  - first:
+      213: 354666044226288538
+    second: asset portal Bige size_123
+  - first:
+      213: -3725458652681567584
+    second: asset portal Bige size_124
+  - first:
+      213: 1803752458933737970
+    second: asset portal Bige size_125
+  - first:
+      213: 1436773006541168476
+    second: asset portal Bige size_126
+  - first:
+      213: 5842764388200243248
+    second: asset portal Bige size_127
+  - first:
+      213: 6345802963922996671
+    second: asset portal Bige size_128
+  - first:
+      213: 2960270915803022168
+    second: asset portal Bige size_129
+  - first:
+      213: -1374812102074301392
+    second: asset portal Bige size_130
+  - first:
+      213: 1784054844095908962
+    second: asset portal Bige size_131
+  - first:
+      213: 2630643975458122381
+    second: asset portal Bige size_132
+  - first:
+      213: 6670684502558890082
+    second: asset portal Bige size_133
+  - first:
+      213: -1658299665195175181
+    second: asset portal Bige size_134
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: asset portal Bige size_0
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 2496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3275ff3d9de02610800000000000000
+      internalID: 1594535527727854139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_1
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fd68c6547da4460800000000000000
+      internalID: 7226825245242875800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_2
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ef0d32b2d7300a0800000000000000
+      internalID: -6916546978472985050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_3
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 2496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b89308bcf33e000800000000000000
+      internalID: 63964962975484806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_4
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 2496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152cf17bffb786730800000000000000
+      internalID: 3992577407883133521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_5
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e9aa8af5697bce0800000000000000
+      internalID: -1389476622424695249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_6
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ee0333bf3cddda0800000000000000
+      internalID: -5918358851631911280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_7
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 2496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9632e5a884c4a00800000000000000
+      internalID: 742047797731355056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_8
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 2496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb94c559834fddec0800000000000000
+      internalID: -3540405208182142533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_9
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d07fdfd7c3c4f40800000000000000
+      internalID: 5714008539055721833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_10
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 2432
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55953f2649f67ea00800000000000000
+      internalID: 785719343105399125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_11
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2432
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217090041ed9f40f0800000000000000
+      internalID: -1130511390679169262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_12
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 2368
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7e87928d0dd3100800000000000000
+      internalID: 89457194444580831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_13
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2368
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfdcde44228f1930800000000000000
+      internalID: 4116151676893454303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_14
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 2304
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0348ee160c67f6220800000000000000
+      internalID: 2481332488353252400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_15
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2304
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05654c56d852c1d00800000000000000
+      internalID: 944671311068943952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_16
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 2240
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb2937d3f2a910e0800000000000000
+      internalID: -2298626966624326669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_17
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2240
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39efacc3c25cefc10800000000000000
+      internalID: 2089324070935658131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_18
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 2176
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d89bbb4b456e130800000000000000
+      internalID: 3595654487722266012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_19
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2176
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56a2b27230622430800000000000000
+      internalID: 3756670808969356891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_20
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 2112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cbdf2fe3333c2d0800000000000000
+      internalID: -3259705359828403182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_21
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6651642b6829740800000000000000
+      internalID: 5157332623530747597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_22
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb496147ef9d2f60800000000000000
+      internalID: 8011235127745661890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_23
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 2112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5e6a3fc57014010800000000000000
+      internalID: 1171225473899226580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_24
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 2112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5576b4e231ac3b70800000000000000
+      internalID: 8880149805225375067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_25
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f61604f9768bd0c0800000000000000
+      internalID: -4549895140184549648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_26
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112795d025b4e8ff0800000000000000
+      internalID: -32005331561647599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_27
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 2112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2935e74c9b03b20800000000000000
+      internalID: 3112191596097147557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_28
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 2112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdef7e30351b46b40800000000000000
+      internalID: 5432662020621598431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_29
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4701ad0ce86bafc0800000000000000
+      internalID: -3482574523790719157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_30
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32297edea6784ba00800000000000000
+      internalID: 771390329514856995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_31
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8e96f9acf36cde0800000000000000
+      internalID: -1313292101841458960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_32
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc71d0e73ab824f0800000000000000
+      internalID: -853227380228916009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_33
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f839640d87da8e130800000000000000
+      internalID: 3596315036857308047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_34
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229ca4115db2879a0800000000000000
+      internalID: -6235185489976309470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_35
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a20f11f77333e240800000000000000
+      internalID: 4819752616456028837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_36
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5cac394fb4057a0800000000000000
+      internalID: -6390524357415090732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_37
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877b808d1dbc45a80800000000000000
+      internalID: -8478928096298748040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_38
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b041914a5e93e8c0800000000000000
+      internalID: -3971156335926361928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_39
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29d1d449af4c29f0800000000000000
+      internalID: -491930670867556054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_40
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32533bc96e76fdc20800000000000000
+      internalID: 3233417297644434723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_41
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2132a86691f6290800000000000000
+      internalID: -7895063693562277180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_42
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56b37371b0e999b0800000000000000
+      internalID: -5072776452505356709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_43
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afb99a5f993ef390800000000000000
+      internalID: -7782719749467029596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_44
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040cc9c8561d2e3e0800000000000000
+      internalID: -2025826648282316736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_45
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193b8122933d4b7d0800000000000000
+      internalID: -2903463617408486511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_46
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0d924db2e248360800000000000000
+      internalID: 7170907272458653900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_47
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f872235f1ea92b30800000000000000
+      internalID: 4263129971844872432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_48
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bff75d3e6cb89aa0800000000000000
+      internalID: -6153961709140181065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_49
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee6e71283badf470800000000000000
+      internalID: 8430082335075888874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_50
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57100660f94a8b8c0800000000000000
+      internalID: -3983252867495493259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_51
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ad5156772743600800000000000000
+      internalID: 447108120139127380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_52
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a6af52a319dc220800000000000000
+      internalID: 2507820246446533124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_53
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7842cb07292baa860800000000000000
+      internalID: 7542036868011664519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_54
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4b6f7392d3a2240800000000000000
+      internalID: 4767690402766959811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_55
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7132822e7a20540800000000000000
+      internalID: 4972721528348284850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_56
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0ceaadba98d06a0800000000000000
+      internalID: -6481372917514977088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_57
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f67ac3e21950120800000000000000
+      internalID: 2379467605907304275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_58
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa50d2d9a0836b70800000000000000
+      internalID: 8891091556234189555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_59
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fc5d2ccc14185d0800000000000000
+      internalID: -3062093923937300592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_60
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cfcca2a80af49e0800000000000000
+      internalID: -1634911624428192651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_61
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74950f2358ff7dee0800000000000000
+      internalID: -1236238625139566265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_62
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419ea747e24ba51b0800000000000000
+      internalID: -5667019069476640492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_63
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055f7f8f6545ad1c0800000000000000
+      internalID: -4478174146945616560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_64
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cae1b9e60fc5bbc0800000000000000
+      internalID: -3767877884628047168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_65
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09b8339442d10000800000000000000
+      internalID: 512666946287887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_66
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be88e08249c90c220800000000000000
+      internalID: 2504173552959129835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_67
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7282f224788f8da0800000000000000
+      internalID: -5940379351094492546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_68
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70e053856fd80d40800000000000000
+      internalID: 5550932167821942908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_69
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7edbd0978d9771a0800000000000000
+      internalID: -6811802705798111622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_70
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3252a9e36997e70800000000000000
+      internalID: 9113480516579173289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_71
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a2ae60e74581f80800000000000000
+      internalID: -8135659826586178913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_72
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043da2de7a8256e40800000000000000
+      internalID: 5648966009309811520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_73
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2b3d3baaf10dc70800000000000000
+      internalID: 8993723273880777457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_74
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b8649f2913310c0800000000000000
+      internalID: -4606283486552749246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_75
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08327d0aff78d1110800000000000000
+      internalID: 1233291404954248064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_76
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2436ac8b7bf154010800000000000000
+      internalID: 1172378151939629890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_77
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73cb0bee1ecdd740800000000000000
+      internalID: 5178521778733695869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_78
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed06902d1c130450800000000000000
+      internalID: 6053713235542412773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_79
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d0858128c65d440800000000000000
+      internalID: 4959989870628441482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_80
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0b91572442060d0800000000000000
+      internalID: -3431703048205258571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_81
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2aeaac8a34ed0c50800000000000000
+      internalID: 6633208766305856043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_82
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d34a4a4fc9aa8520800000000000000
+      internalID: 2705161233959109593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_83
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124cad7e14dbdcf10800000000000000
+      internalID: 2291695876161848353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_84
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533cff2ceb7022bc0800000000000000
+      internalID: -3809473818905296075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_85
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298e0b9493b3678a0800000000000000
+      internalID: -6307789110850295662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_86
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0398394b1facf9dc0800000000000000
+      internalID: -3629959635171833552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_87
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b332c5f46794a2da0800000000000000
+      internalID: -5968877583639764165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_88
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10f47426f0d7a500800000000000000
+      internalID: 407524046892494874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_89
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b890e73bb2c7260800000000000000
+      internalID: 7096595162742754112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_90
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5adbfa503970c00800000000000000
+      internalID: 866823105924670904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_91
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6de5ebe4bfef03f0800000000000000
+      internalID: -932263037511537301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_92
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3f5a42718bba8e0800000000000000
+      internalID: -1681047626354134072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_93
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a97ff93b3be8c50800000000000000
+      internalID: 6669465682246605406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_94
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62bf3f7d6d37c120800000000000000
+      internalID: 2433981664112652910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_95
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc14b3167be764640800000000000000
+      internalID: 5063874157100089805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_96
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa8898b89d159da0800000000000000
+      internalID: -5938807991848891743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_97
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffb7c9471fa62380800000000000000
+      internalID: -8996310691069050887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_98
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd03d252b43f15450800000000000000
+      internalID: 6075904876371325151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_99
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e08629c590fe51e0800000000000000
+      internalID: -2207062241249427223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_100
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650eec9e9938f94a0800000000000000
+      internalID: -6584399433116491690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_101
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e296977f7ee325850800000000000000
+      internalID: 6364218389438228782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_102
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d362561cb5e2c90800000000000000
+      internalID: -7192710668680282871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_103
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d02b4336728a150800000000000000
+      internalID: 5883996220198882593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_104
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c75a5a0c712c46b0800000000000000
+      internalID: -5310833043943303226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_105
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297dbe4ab99c759c0800000000000000
+      internalID: -3938457678788175982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_106
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd50c075db48a8880800000000000000
+      internalID: -8607921789021190692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_107
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58d7255adef728b0800000000000000
+      internalID: -5176889032954095522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_108
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafe9c8031e066dc0800000000000000
+      internalID: -3646211373395218515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_109
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff6991030986d2c0800000000000000
+      internalID: -4407184539330711566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_110
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e5002731b2bb5d0800000000000000
+      internalID: -3045793360469008842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_111
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef27122b149840010800000000000000
+      internalID: 1154198319768105726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_112
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c0bd3d63cd015a0800000000000000
+      internalID: -6552495329783378944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_113
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890e3abaaa6264ed0800000000000000
+      internalID: -2430212434453864296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_114
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794edd56e8521aec0800000000000000
+      internalID: -3557520937121356649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_115
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16acdc5db6b3fb700800000000000000
+      internalID: 558230213151804001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_116
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b60f61e7e54b9a90800000000000000
+      internalID: -7306169108256586059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_117
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162355f89c1d901f0800000000000000
+      internalID: -1078099972155166111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_118
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f78e85cee7d2feb0800000000000000
+      internalID: -4687446841622624268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_119
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe27be07c7e09b130800000000000000
+      internalID: 3582910906183152367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_120
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de09f6d861dc1d6b0800000000000000
+      internalID: -5273208191928266515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_121
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1367aad14c3869c40800000000000000
+      internalID: 5518743271723660849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_122
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc12f8f0632b2b120800000000000000
+      internalID: 2428199094365135311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_123
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b300c53e60ce400800000000000000
+      internalID: 354666044226288538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_124
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2828df7138c4cc0800000000000000
+      internalID: -3725458652681567584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_125
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f99b710e47380910800000000000000
+      internalID: 1803752458933737970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_126
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f91c5ef6170f310800000000000000
+      internalID: 1436773006541168476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_127
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0306af8314ba51150800000000000000
+      internalID: 5842764388200243248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_128
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd40479c22d01850800000000000000
+      internalID: 6345802963922996671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_129
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8530c57b6bef41920800000000000000
+      internalID: 2960270915803022168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_130
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03404fe5dafabece0800000000000000
+      internalID: -1374812102074301392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_131
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cc62aad6c32c810800000000000000
+      internalID: 1784054844095908962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_132
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ae3b702cce18420800000000000000
+      internalID: 2630643975458122381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_133
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268d9b75638039c50800000000000000
+      internalID: 6670684502558890082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asset portal Bige size_134
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f274e49d398cf8e0800000000000000
+      internalID: -1658299665195175181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
